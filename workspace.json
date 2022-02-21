@@ -2,6 +2,9 @@
   "version": 2,
   "projects": {
     "react-app-1": "apps/react-app-1",
-    "react-app-1-e2e": "apps/react-app-1-e2e"
+    "react-app-1-e2e": "apps/react-app-1-e2e",
+    "react-app-2": "apps/react-app-2",
+    "react-app-2-e2e": "apps/react-app-2-e2e",
+    "shared-components": "libs/shared-components"
   }
 }
